@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, PabloJewel
 
 <!--
-**pablojeweldanes21-alt/pablojeweldanes21-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PabloJewel/PabloJewel is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 About Me
+- 🎓 BSIT Student at Laguna State Polytechnic University
+- 🌱 Currently learning Python, C#, and HTML
+- 🎯 Goal: Enhance my coding skill
+- 💻 Interested in Software Development
+
+# 🛠 Skills
+- Skills Beginner in Python, C#, and HTML
+
+# 📫 Connect with Me
+- Email: pablo.jewel.dane.s.21@gmai.com
